@@ -1,0 +1,10 @@
+When running the TTTGame, the users can see a lower 3x3 grid chessboard and an upper penal with one button and two labels. 
+hey can click the grid position to put their "chess" on the board in turns. 
+Player1's turn shows "X" shape chess, player2's turn shows "O" shape chess.
+When playing the game, the player who first gets three in a row (horizontal, vertical, or diagonal) wins the game.
+The labels in the penal will change status to show who's turn and the number of times of P1 win, P2 win, and Draw. 
+The status of labels can be updated corresponding to the status of chessboard.
+When one game is finished, users can click "New Game" button to begin a new one.
+After clicking the "New Game" button, users will see the game window is reset back to original status except for the number of who's win and draws.
+The label which counting the number of wins and draws will update after each game.
+Enjoy playing the chess!
